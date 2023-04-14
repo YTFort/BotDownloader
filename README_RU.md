@@ -34,7 +34,7 @@
 Для тех, кто хочет использовать открытый исходный код!
 
 ### Скачайте
-* Скачайте последний [Релиз](https://discord.gg/bjgpVAxgyE)
+* Скачайте последний [Релиз](https://github.com/YTFort/BotDownloader/releases)
 
 ### Python
 
@@ -69,7 +69,7 @@ py bot.py
 Для тех, кто не хочет работать с исходным кодом!
 
 ### 1. Скачайте
-* Скачайте последний [Релиз](https://discord.gg/bjgpVAxgyE) [.EXE]
+* Скачайте последний [Релиз](https://github.com/YTFort/BotDownloader/releases) [.EXE]
 
 ### 2. Конфиг
 * Отредактируйте конфиг
