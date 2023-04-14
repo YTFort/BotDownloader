@@ -2,7 +2,7 @@
 Данная программа запускает бота, который пишет в чат, что якобы скачивает сервер Minecraft. Программа создана для троллинга друзей!
 
 ## видео с использованием бота:
-* [Youtube](https://www.youtube.com/)
+* [Youtube](https://youtu.be/4Yu__6G4MMk)
 
 ### Помощь:
 - [Discord](https://discord.gg/bjgpVAxgyE)
