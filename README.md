@@ -34,7 +34,7 @@ A bot cannot log into a Minecraft server with protection from bots!
 For those who want to use open source!
 
 ### Dowload
-* download the latest [Release](https://discord.gg/bjgpVAxgyE)
+* download the latest [Release](https://github.com/YTFort/BotDownloader/releases)
 
 ### Python
 
@@ -69,7 +69,7 @@ py bot.py
 For those who do not want to work with the source code!
 
 ### 1. Download
-* download the latest [Release](https://discord.gg/bjgpVAxgyE) [.EXE]
+* download the latest [Release](https://github.com/YTFort/BotDownloader/releases) [.EXE]
 
 ### 2. Config
 * Edit the config!
