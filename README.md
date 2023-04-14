@@ -2,7 +2,7 @@
 This program launches a bot that writes to the chat that allegedly downloads the Minecraft server. The program is made for trolling friends!
 
 ## video using the bot:
-* [Youtube](https://www.youtube.com/)
+* [Youtube](https://youtu.be/4Yu__6G4MMk)
 
 ### Help:
 - [Discord](https://discord.gg/bjgpVAxgyE)
